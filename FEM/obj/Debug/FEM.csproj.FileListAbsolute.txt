@@ -1,0 +1,12 @@
+E:\My file\Code\C#\FEM\FEM\bin\Debug\FEM.exe.config
+E:\My file\Code\C#\FEM\FEM\obj\Debug\FEM.csprojResolveAssemblyReference.cache
+E:\My file\Code\C#\FEM\FEM\obj\Debug\FEM.Form1.resources
+E:\My file\Code\C#\FEM\FEM\obj\Debug\FEM.Form3.resources
+E:\My file\Code\C#\FEM\FEM\obj\Debug\FEM.Properties.Resources.resources
+E:\My file\Code\C#\FEM\FEM\obj\Debug\FEM.csproj.GenerateResource.Cache
+E:\My file\Code\C#\FEM\FEM\bin\Debug\FEM.exe
+E:\My file\Code\C#\FEM\FEM\bin\Debug\FEM.pdb
+E:\My file\Code\C#\FEM\FEM\bin\Debug\Python.Runtime.dll
+E:\My file\Code\C#\FEM\FEM\obj\Debug\FEM.exe
+E:\My file\Code\C#\FEM\FEM\obj\Debug\FEM.pdb
+E:\My file\Code\C#\FEM\FEM\obj\Debug\FEM.Form2.resources
